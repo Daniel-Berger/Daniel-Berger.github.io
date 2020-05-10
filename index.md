@@ -1,10 +1,12 @@
 ## Welcome to Daniel Berger's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Daniel-Berger/branch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 Welcome to [Daniel Berger's](https://www.linkedin.com/in/mobiledevnyc/) blog. Prepare to have your mind blown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+
+
 
 ### Markdown
 
